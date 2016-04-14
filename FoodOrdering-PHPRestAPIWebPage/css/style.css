@@ -1,0 +1,50 @@
+body {
+    background-color: #FFF;
+}
+
+#header-navbar ul li > a {
+    font-size: 13pt;
+}
+a.navbar-brand {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+a.navbar-brand > img {
+    max-height: 100%;
+}
+.header-section {
+    background-color: #d4d4d4;
+}
+header.navbar {
+    margin-bottom: 0;
+}
+.header-section .navbar-toggle {
+    border-color: blueviolet;
+}
+.header-section .navbar-toggle .icon-bar {
+    background-color: violet;
+}
+.features-title {
+    text-transform: uppercase;
+    font-size: 20pt;
+    font-weight: bold;
+    color: black;
+}
+.table-title {
+    text-transform: uppercase;
+    font-size: 14pt;
+    font-weight: bold;
+    color: black;
+}
+.footer-section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: blueviolet;
+    text-align: left;
+    background-color: #d4d4d4;
+    opacity: 0.95;
+}
+.icon {
+    width: 100px;
+    height: 100%;
+}
